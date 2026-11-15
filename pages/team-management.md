@@ -1,16 +1,16 @@
 # ASF Team Management — Showcase Brief
 
 - **HTML template:** [team-management.html](team-management.html)
-- **Template status:** Scaffolded
-- **Final thumbnail status:** Not started
-- **Target dimensions:** 1280×720 px (16:9, sRGB)
-- **Current image:** [Shared placeholder](../thumbnails/thumbnail.jpg)
-- **Planned final asset:** `thumbnails/team-management.jpg` (not created)
-- **Owner / due date:** Unassigned / TBD
+- **Template status:** Scaffolded; thumbnail integrated
+- **Final thumbnail status:** Delivered
+- **Dimensions:** 1280×720 px (16:9)
+- **Delivered asset:** [ASF — Team Management — Thumbnail.jpg](../ASF%20%E2%80%94%20Team%20Management%20%E2%80%94%20Thumbnail.jpg)
+- **Canva source:** [Saved design](https://www.canva.com/d/eQP_zmtrtplH8yz)
+- **Thumbnail workflow:** Complete; no pending thumbnail items
 
 ## Draft purpose
 
-Explain the intended member, role, and collaboration-management experience. Copy requires product review. This scaffold does not invite people or change permissions.
+Explain the intended member, role, and collaboration-management experience. Copy requires product review. This scaffold does not invite people or change permissions. Product copy approval is outside the completed thumbnail workflow.
 
 ## Planned sections
 
@@ -22,17 +22,18 @@ Explain the intended member, role, and collaboration-management experience. Copy
 
 Dark violet panels with violet accents (`#c4b5fd`), friendly avatar clusters, member cards, and clear role chips. Use consistent alignment and a collaborative rather than crowded composition.
 
-## Thumbnail production brief
+## Thumbnail specification
 
-- Deliver 1280×720 pixels, 16:9, sRGB.
-- Keep essential labels and focal content at least 64 px from every edge.
-- Use consistent system-sans typography and rounded panels; check legibility at 320×180.
+- Delivered JPEG is verified at 1280×720 pixels, 16:9.
+- Keep essential labels and focal content at least 64 px from every edge in future revisions.
+- Use consistent system-sans typography and rounded panels; the delivered title passed automated readability checks at 320×180.
 - Use fictional people and generic avatars only; no real names, email addresses, or employee information.
-- Add the approved final file at the planned path and update the HTML image source and meaningful alt text. Preserve `thumbnails/thumbnail.jpg`.
+- The page and index reference the uploaded root-level JPEG using a URL-encoded relative path. The original shared placeholder is preserved but unused by the HTML pages.
 
-## Review checklist
+## Completed thumbnail checklist
 
-- [ ] Approve copy and planned sections.
-- [ ] Produce and approve final thumbnail.
-- [ ] Update image source and alt text.
-- [ ] Check mobile layout, crops, contrast, and keyboard navigation.
+- [x] Approve and save the Canva thumbnail.
+- [x] Verify the uploaded JPEG bytes and 1280×720 dimensions.
+- [x] Verify title readability at 320×180.
+- [x] Integrate page and index image references and meaningful page alt text.
+- [x] Validate local image and navigation targets.

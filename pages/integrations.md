@@ -1,16 +1,16 @@
 # ASF Integrations — Showcase Brief
 
 - **HTML template:** [integrations.html](integrations.html)
-- **Template status:** Scaffolded
-- **Final thumbnail status:** Not started
-- **Target dimensions:** 1280×720 px (16:9, sRGB)
-- **Current image:** [Shared placeholder](../thumbnails/thumbnail.jpg)
-- **Planned final asset:** `thumbnails/integrations.jpg` (not created)
-- **Owner / due date:** Unassigned / TBD
+- **Template status:** Scaffolded; thumbnail integrated
+- **Final thumbnail status:** Delivered
+- **Dimensions:** 1280×720 px (16:9)
+- **Delivered asset:** [ASF — Integrations — Thumbnail.jpg](../ASF%20%E2%80%94%20Integrations%20%E2%80%94%20Thumbnail.jpg)
+- **Canva source:** [Saved design](https://www.canva.com/d/Lqwpm0kCna4JvLO)
+- **Thumbnail workflow:** Complete; no pending thumbnail items
 
 ## Draft purpose
 
-Explain the intended catalog, connection-health, and setup experience. Copy and supported integration names require product review. No live connections are implemented.
+Explain the intended catalog, connection-health, and setup experience. Copy and supported integration names require product review. No live connections are implemented. Product copy approval is outside the completed thumbnail workflow.
 
 ## Planned sections
 
@@ -22,17 +22,18 @@ Explain the intended catalog, connection-health, and setup experience. Copy and 
 
 Dark blue panels with blue accents (`#93c5fd`), connected generic app tiles, a central workspace hub, and simple linking lines. Maintain generous spacing and an obvious focal point.
 
-## Thumbnail production brief
+## Thumbnail specification
 
-- Deliver 1280×720 pixels, 16:9, sRGB.
-- Keep essential labels and focal content at least 64 px from every edge.
-- Use consistent system-sans typography and rounded panels; check legibility at 320×180.
-- Use generic app marks until specific integrations and brand-asset permissions are approved. Never expose tokens or credentials.
-- Add the approved final file at the planned path and update the HTML image source and meaningful alt text. Preserve `thumbnails/thumbnail.jpg`.
+- Delivered JPEG is verified at 1280×720 pixels, 16:9.
+- Keep essential labels and focal content at least 64 px from every edge in future revisions.
+- Use consistent system-sans typography and rounded panels; the delivered title passed automated readability checks at 320×180.
+- Use generic app marks unless specific integrations and brand-asset permissions are approved. Never expose tokens or credentials.
+- The page and index reference the uploaded root-level JPEG using a URL-encoded relative path. The original shared placeholder is preserved but unused by the HTML pages.
 
-## Review checklist
+## Completed thumbnail checklist
 
-- [ ] Approve copy and planned sections.
-- [ ] Produce and approve final thumbnail.
-- [ ] Update image source and alt text.
-- [ ] Check mobile layout, crops, contrast, and keyboard navigation.
+- [x] Approve and save the Canva thumbnail.
+- [x] Verify the uploaded JPEG bytes and 1280×720 dimensions.
+- [x] Verify title readability at 320×180.
+- [x] Integrate page and index image references and meaningful page alt text.
+- [x] Validate local image and navigation targets.

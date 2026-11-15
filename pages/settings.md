@@ -1,16 +1,16 @@
 # ASF Settings — Showcase Brief
 
 - **HTML template:** [settings.html](settings.html)
-- **Template status:** Scaffolded
-- **Final thumbnail status:** Not started
-- **Target dimensions:** 1280×720 px (16:9, sRGB)
-- **Current image:** [Shared placeholder](../thumbnails/thumbnail.jpg)
-- **Planned final asset:** `thumbnails/settings.jpg` (not created)
-- **Owner / due date:** Unassigned / TBD
+- **Template status:** Scaffolded; thumbnail integrated
+- **Final thumbnail status:** Delivered
+- **Dimensions:** 1280×720 px (16:9)
+- **Delivered asset:** [ASF — Settings — Thumbnail.jpg](../ASF%20%E2%80%94%20Settings%20%E2%80%94%20Thumbnail.jpg)
+- **Canva source:** [Saved design](https://www.canva.com/d/2QegxY2ePicvycN)
+- **Thumbnail workflow:** Complete; no pending thumbnail items
 
 ## Draft purpose
 
-Explain the intended profile, notification, and security-preference organization. Copy requires product review. No settings or account changes are implemented.
+Explain the intended profile, notification, and security-preference organization. Copy requires product review. No settings or account changes are implemented. Product copy approval is outside the completed thumbnail workflow.
 
 ## Planned sections
 
@@ -22,17 +22,18 @@ Explain the intended profile, notification, and security-preference organization
 
 Slate panels and accents (`#cbd5e1`), organized preference groups, tidy control rows, and illustrative toggles with clear labels. Use text labels alongside state indicators.
 
-## Thumbnail production brief
+## Thumbnail specification
 
-- Deliver 1280×720 pixels, 16:9, sRGB.
-- Keep essential labels and focal content at least 64 px from every edge.
-- Use consistent system-sans typography and rounded panels; check legibility at 320×180.
+- Delivered JPEG is verified at 1280×720 pixels, 16:9.
+- Keep essential labels and focal content at least 64 px from every edge in future revisions.
+- Use consistent system-sans typography and rounded panels; the delivered title passed automated readability checks at 320×180.
 - Use generic, fictional profile details. Do not display credentials, recovery codes, or unverified security guarantees.
-- Add the approved final file at the planned path and update the HTML image source and meaningful alt text. Preserve `thumbnails/thumbnail.jpg`.
+- The page and index reference the uploaded root-level JPEG using a URL-encoded relative path. The original shared placeholder is preserved but unused by the HTML pages.
 
-## Review checklist
+## Completed thumbnail checklist
 
-- [ ] Approve copy and planned sections.
-- [ ] Produce and approve final thumbnail.
-- [ ] Update image source and alt text.
-- [ ] Check mobile layout, crops, contrast, and keyboard navigation.
+- [x] Approve and save the Canva thumbnail.
+- [x] Verify the uploaded JPEG bytes and 1280×720 dimensions.
+- [x] Verify title readability at 320×180.
+- [x] Integrate page and index image references and meaningful page alt text.
+- [x] Validate local image and navigation targets.

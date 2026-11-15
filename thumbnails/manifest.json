@@ -1,0 +1,90 @@
+{
+  "project": "ASF App Thumbnails",
+  "branch": "feature/app-pages",
+  "workflow_status": "complete",
+  "pending_thumbnail_items": 0,
+  "dimensions": {"width": 1280, "height": 720},
+  "folder_url": "https://www.canva.com/folder/FAHa-nM4pC8",
+  "tracker_url": "https://app.notion.com/p/ASF-App-Pages-Project-Tracker-41957d1adb2081a1a4f1c85055172df4",
+  "assets": [
+    {
+      "page": "Dashboard",
+      "slug": "dashboard",
+      "repository_path": "ASF — Dashboard — Thumbnail.jpg",
+      "html_src": "../ASF%20%E2%80%94%20Dashboard%20%E2%80%94%20Thumbnail.jpg",
+      "canva_design_id": "DAHa-se7sJs",
+      "canva_url": "https://www.canva.com/d/8smKcjTAGhA_y2v",
+      "bytes": 77076,
+      "blob_sha": "0ae750bca07d998b80230902ab7b69450abd1cad",
+      "sha256": "a07fe79c4e5b3b14919950005e41bf1a4201f2ba008f639d679ebafa6595bae5",
+      "title_readable_at_320x180": true,
+      "status": "delivered"
+    },
+    {
+      "page": "Analytics",
+      "slug": "analytics",
+      "repository_path": "ASF — Analytics — Thumbnail.jpg",
+      "html_src": "../ASF%20%E2%80%94%20Analytics%20%E2%80%94%20Thumbnail.jpg",
+      "canva_design_id": "DAHa-mTExHM",
+      "canva_url": "https://www.canva.com/d/O7dBuHapEnpUtQ7",
+      "bytes": 52121,
+      "blob_sha": "2f348f1070669366614562b662fd3c3560d1c215",
+      "sha256": "85d8d7af79b32abae39a8584e35482c9494656890bb29775e417b9bf3e6d2b70",
+      "title_readable_at_320x180": true,
+      "status": "delivered"
+    },
+    {
+      "page": "Billing",
+      "slug": "billing",
+      "repository_path": "ASF — Billing — Thumbnail.jpg",
+      "html_src": "../ASF%20%E2%80%94%20Billing%20%E2%80%94%20Thumbnail.jpg",
+      "canva_design_id": "DAHa-kBihLA",
+      "canva_url": "https://www.canva.com/d/VS9zPbnjPf8yLgM",
+      "bytes": 56366,
+      "blob_sha": "dca21bd0dffb7c408a9e620f8ff4b2d555b59ed2",
+      "sha256": "d0434f7433941f9aa246ac53c3a2eb6d8b0d6ce4e31f2e0731bc971a282391cd",
+      "title_readable_at_320x180": true,
+      "status": "delivered"
+    },
+    {
+      "page": "Team Management",
+      "slug": "team-management",
+      "repository_path": "ASF — Team Management — Thumbnail.jpg",
+      "html_src": "../ASF%20%E2%80%94%20Team%20Management%20%E2%80%94%20Thumbnail.jpg",
+      "canva_design_id": "DAHa-sulJ3E",
+      "canva_url": "https://www.canva.com/d/eQP_zmtrtplH8yz",
+      "bytes": 79742,
+      "blob_sha": "a35c5ab9a4d61b66e94c5efe7f03da8754af2131",
+      "sha256": "2610a03bc3d9798e589393b49ee8964da5cf9e32780916a5c83ead3c11b5859d",
+      "title_readable_at_320x180": true,
+      "status": "delivered"
+    },
+    {
+      "page": "Integrations",
+      "slug": "integrations",
+      "repository_path": "ASF — Integrations — Thumbnail.jpg",
+      "html_src": "../ASF%20%E2%80%94%20Integrations%20%E2%80%94%20Thumbnail.jpg",
+      "canva_design_id": "DAHa-rwx9ng",
+      "canva_url": "https://www.canva.com/d/Lqwpm0kCna4JvLO",
+      "bytes": 33212,
+      "blob_sha": "a51e491084cddd842eb6ec487ed98f89e4e5fa1c",
+      "sha256": "4a7c2bb252fe1a723475c39020431378783cad98479262f41e8d604efed614cd",
+      "title_readable_at_320x180": true,
+      "status": "delivered"
+    },
+    {
+      "page": "Settings",
+      "slug": "settings",
+      "repository_path": "ASF — Settings — Thumbnail.jpg",
+      "html_src": "../ASF%20%E2%80%94%20Settings%20%E2%80%94%20Thumbnail.jpg",
+      "canva_design_id": "DAHa-mTCzL0",
+      "canva_url": "https://www.canva.com/d/2QegxY2ePicvycN",
+      "bytes": 24632,
+      "blob_sha": "0446dc414e4fd1e68dbc3a5e0c3330247690c100",
+      "sha256": "7cb7dd2305cee747c98df52bb96ddec8dd315e88041c3b75eae314d4634d63cd",
+      "title_readable_at_320x180": true,
+      "status": "delivered"
+    }
+  ],
+  "scope": "Thumbnail delivery on the feature branch; live app implementation, merge and deployment are not included."
+}
