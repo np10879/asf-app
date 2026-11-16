@@ -23,8 +23,37 @@
     "verification": {
       "committed_bytes_match_tested_files": true,
       "local_internal_link_and_asset_checks": 47,
-      "public_http_verified": false,
-      "public_http_blocker": "Instant web-fetch request refused because the team wallet balance is exhausted."
+      "status": "complete",
+      "method": "user_reported_manual_browser",
+      "recorded_at": "2026-11-16T03:35:38.072Z",
+      "source_revision_at_recording": "c10a08c02eea98d83832cce35fbb41e8dfd48683",
+      "manual_browser_verification": {
+        "verified": true,
+        "reported_by": "user",
+        "result": "All four deployed links are live and loading properly.",
+        "urls": [
+          "https://np10879.github.io/asf-app/app-index/index.html",
+          "https://np10879.github.io/asf-app/app-index/education.html",
+          "https://np10879.github.io/asf-app/app-index/healthcare.html",
+          "https://np10879.github.io/asf-app/app-index/discovery.html"
+        ]
+      },
+      "automated_public_http_verification": {
+        "status": "skipped_at_user_request",
+        "provider": "TinyFish",
+        "performed": false
+      },
+      "historical_automated_attempt": {
+        "status": "blocked_before_fetch",
+        "reason": "Instant web-fetch request refused because the team wallet balance is exhausted.",
+        "active_release_blocker": false
+      },
+      "independent_public_http_checks_not_claimed": [
+        "https://np10879.github.io/asf-app/",
+        "https://np10879.github.io/asf-app/app-index/styles.css",
+        "https://np10879.github.io/asf-app/app-index/metadata.json"
+      ],
+      "active_release_blocker": null
     }
   },
   "spotlights": [
