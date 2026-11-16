@@ -12,7 +12,20 @@
     "provider": "GitHub Pages",
     "source_branch": "main",
     "source_path": "/",
-    "status": "pending_verification"
+    "status": "deployed",
+    "site_url": "https://np10879.github.io/asf-app/",
+    "app_index_url": "https://np10879.github.io/asf-app/app-index/index.html",
+    "https_enforced": true,
+    "verified_content_commit": "37b6447b74bc655caefda828fc2f61555fecc776",
+    "verified_build_url": "https://api.github.com/repos/np10879/asf-app/pages/builds/1373543944",
+    "verified_build_status": "built",
+    "build_completed_at": "2026-11-16T02:56:58Z",
+    "verification": {
+      "committed_bytes_match_tested_files": true,
+      "local_internal_link_and_asset_checks": 47,
+      "public_http_verified": false,
+      "public_http_blocker": "Instant web-fetch request refused because the team wallet balance is exhausted."
+    }
   },
   "spotlights": [
     {
@@ -33,7 +46,8 @@
       "notion_page_id": "41957d1a-db20-814c-8f43-ea13ad3e563c",
       "notion_url": "https://app.notion.com/p/Education-Industry-Spotlight-Published-41957d1adb20814c8f43ea13ad3e563c",
       "notion_access": "workspace",
-      "notion_last_edited_time": "2026-11-16T02:54:00.000Z"
+      "notion_last_edited_time": "2026-11-16T02:54:00.000Z",
+      "public_url": "https://np10879.github.io/asf-app/app-index/education.html"
     },
     {
       "slug": "healthcare",
@@ -53,7 +67,8 @@
       "notion_page_id": "41957d1a-db20-81e9-988e-d204d432a972",
       "notion_url": "https://app.notion.com/p/Healthcare-Industry-Spotlight-Published-41957d1adb2081e9988ed204d432a972",
       "notion_access": "workspace",
-      "notion_last_edited_time": "2026-11-16T02:54:00.000Z"
+      "notion_last_edited_time": "2026-11-16T02:54:00.000Z",
+      "public_url": "https://np10879.github.io/asf-app/app-index/healthcare.html"
     },
     {
       "slug": "discovery",
@@ -73,7 +88,8 @@
       "notion_page_id": "41957d1a-db20-817c-8a04-d24815418b3d",
       "notion_url": "https://app.notion.com/p/Discovery-Industry-Spotlight-Published-41957d1adb20817c8a04d24815418b3d",
       "notion_access": "workspace",
-      "notion_last_edited_time": "2026-11-16T02:54:00.000Z"
+      "notion_last_edited_time": "2026-11-16T02:54:00.000Z",
+      "public_url": "https://np10879.github.io/asf-app/app-index/discovery.html"
     }
   ]
 }
