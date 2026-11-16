@@ -163,4 +163,4 @@ Before publishing this as an operational user guide, identify the actual product
 | Healthcare | [Overview](../healthcare/overview.md) | [User guide](../healthcare/user-guide.md) |
 | Discovery | [Overview](overview.md) | **User guide (this page)** |
 
-> All eight Markdown draft pages link directly to every other draft page through this navigation. The published HTML site has not been changed.
+> All eight Markdown draft pages link directly to every other draft page through this navigation. The homepage links to these review drafts on GitHub; the category guides remain unpublished.

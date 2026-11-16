@@ -80,13 +80,13 @@ If a category maps to several products, create one overview-and-guide pair per a
 3. **Guide walkthrough:** have an authorized reviewer follow every action in the correct environment, noting manual and unsupported steps.
 4. **Specialist review:** complete the relevant accessibility, privacy, security, safeguarding, clinical-scope, or research-method review identified in the page.
 5. **Editorial review:** verify clarity, source context, status labels, examples, link labels, and reciprocal navigation.
-6. **Publication decision:** obtain explicit approval for the final content and delivery method. Decide separately whether to change the HTML site or its navigation.
+6. **Publication decision:** obtain explicit approval for the final content and delivery method. The approved homepage promotion links to the GitHub Markdown drafts; any rendered guide publication still needs a separate decision.
 
 Ownership remains unassigned in this draft set. Listing a reviewer type does not imply that someone has accepted the task or granted approval.
 
 ## Link structure and maintenance
 
-The “Documentation network” section on every draft page links directly to all seven other draft pages. Overview-and-guide pairs also link within their task context, and category-specific cross-links explain when another guide is relevant. Existing HTML pages are linked as source material; their content and navigation are unchanged.
+The “Documentation network” section on every draft page links directly to all seven other draft pages. Overview-and-guide pairs also link within their task context, and category-specific cross-links explain when another guide is relevant. Existing industry spotlights are linked as source material and remain unchanged. The homepage links to this draft network on GitHub.
 
 Use relative Markdown file links within the draft network and descriptive headings for section anchors. If you rename a file or heading, update all referring links. If you add a category, add its pair to this index, the root README, and every shared navigation table; then check the link graph again. Cross-links do not imply shared software, permissions, data stores, or test results.
 
@@ -96,7 +96,7 @@ Use relative Markdown file links within the draft network and descriptive headin
 - [Existing app-index source](https://github.com/np10879/asf-app/blob/main/app-index/index.html)
 - [Existing publication metadata](https://github.com/np10879/asf-app/blob/main/app-index/metadata.json)
 
-These references establish provenance for the editorial baseline. The new Markdown files are review drafts and have not been committed or published by preparation of this package.
+These references establish provenance for the editorial baseline. The Markdown files are available as review drafts in the repository. Merging them and promoting their GitHub links does not approve their proposed capabilities or publish them as validated product guides.
 
 ## Documentation network
 
@@ -108,4 +108,4 @@ These references establish provenance for the editorial baseline. The new Markdo
 | Healthcare | [Overview](healthcare/overview.md) | [User guide](healthcare/user-guide.md) |
 | Discovery | [Overview](discovery/overview.md) | [User guide](discovery/user-guide.md) |
 
-> All eight Markdown draft pages link directly to every other draft page through this navigation. The published HTML site has not been changed.
+> All eight Markdown draft pages link directly to every other draft page through this navigation. The homepage links to these review drafts on GitHub; the category guides remain unpublished.

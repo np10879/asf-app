@@ -117,4 +117,4 @@ For another sector's proposed coordination needs, see the [Healthcare overview](
 | Healthcare | [Overview](../healthcare/overview.md) | [User guide](../healthcare/user-guide.md) |
 | Discovery | [Overview](../discovery/overview.md) | [User guide](../discovery/user-guide.md) |
 
-> All eight Markdown draft pages link directly to every other draft page through this navigation. The published HTML site has not been changed.
+> All eight Markdown draft pages link directly to every other draft page through this navigation. The homepage links to these review drafts on GitHub; the category guides remain unpublished.

@@ -36,7 +36,7 @@ The pre-existing pages remain editorial overviews:
 - [Discovery spotlight](https://github.com/np10879/asf-app/blob/main/app-index/discovery.html)
 - [Publication metadata for those spotlights](https://github.com/np10879/asf-app/blob/main/app-index/metadata.json)
 
-The existing publication approval applies to those spotlights, not these new Markdown drafts. The HTML pages and their navigation have not been edited. Links to the source pages are provenance references, not evidence that proposed product functions exist.
+The existing publication approval applies to those spotlights, not these new Markdown drafts. The homepage promotes these review drafts with GitHub links. Existing industry spotlight pages and their navigation are unchanged. Links to the source pages are provenance references, not evidence that proposed product functions exist.
 
 ## Reading and previewing
 
@@ -53,7 +53,7 @@ Open `http://localhost:8000/` to inspect the HTML site. This command does not co
 ## Repository layout after adding the proposed files
 
 ```text
-README.md                         proposed repository entry point
+README.md                         repository entry point for the draft guide network
 app-index/                        existing industry spotlights; unchanged
 docs/
   README.md                       draft documentation index
@@ -66,7 +66,7 @@ docs/
   discovery/
     overview.md
     user-guide.md
-index.html                        existing site home; unchanged
+index.html                        existing site home; includes draft-guide promotion
 thumbnails/                       existing assets; unchanged
 ```
 
@@ -77,13 +77,13 @@ thumbnails/                       existing assets; unchanged
 3. Verify supported actions, interfaces, permissions, data flows, availability, and help routes.
 4. Replace hypothetical product descriptions only where there is approved evidence.
 5. Complete the category-specific reviews and guide walkthroughs.
-6. Decide whether to publish Markdown, build rendered pages, or change website navigation; none of those decisions has been applied by this draft package.
+6. The homepage links to Markdown review drafts on GitHub; building rendered guide pages or changing their draft status requires a separate publication decision.
 
 The `status: draft`, `published: false`, and `product_mapping: unconfirmed` front-matter fields communicate review state. They are not access controls or a guarantee of how every site generator behaves.
 
 ## Provenance
 
-Drafted on 2026-11-16 from the repository's current `main` content, checked against root tree `c10a08c02eea98d83832cce35fbb41e8dfd48683`. Existing spotlights establish themes only. No additional app categories, product features, integrations, pricing, customers, outcomes, or approval decisions have been invented as facts.
+Drafted on 2026-11-16 from repository content at snapshot `c10a08c02eea98d83832cce35fbb41e8dfd48683`. Existing spotlights establish themes only. No additional app categories, product features, integrations, pricing, customers, outcomes, or approval decisions have been invented as facts.
 
 ## Documentation network
 
@@ -95,4 +95,4 @@ Drafted on 2026-11-16 from the repository's current `main` content, checked agai
 | Healthcare | [Overview](docs/healthcare/overview.md) | [User guide](docs/healthcare/user-guide.md) |
 | Discovery | [Overview](docs/discovery/overview.md) | [User guide](docs/discovery/user-guide.md) |
 
-> All eight Markdown draft pages link directly to every other draft page through this navigation. The published HTML site has not been changed.
+> All eight Markdown draft pages link directly to every other draft page through this navigation. The homepage links to these review drafts on GitHub; the category guides remain unpublished.

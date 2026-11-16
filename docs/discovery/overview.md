@@ -129,4 +129,4 @@ A publishable product page requires a named product, validated features, approve
 | Healthcare | [Overview](../healthcare/overview.md) | [User guide](../healthcare/user-guide.md) |
 | Discovery | **Overview (this page)** | [User guide](user-guide.md) |
 
-> All eight Markdown draft pages link directly to every other draft page through this navigation. The published HTML site has not been changed.
+> All eight Markdown draft pages link directly to every other draft page through this navigation. The homepage links to these review drafts on GitHub; the category guides remain unpublished.

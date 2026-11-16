@@ -117,4 +117,4 @@ The [Education overview](../education/overview.md) offers a different context fo
 | Healthcare | **Overview (this page)** | [User guide](user-guide.md) |
 | Discovery | [Overview](../discovery/overview.md) | [User guide](../discovery/user-guide.md) |
 
-> All eight Markdown draft pages link directly to every other draft page through this navigation. The published HTML site has not been changed.
+> All eight Markdown draft pages link directly to every other draft page through this navigation. The homepage links to these review drafts on GitHub; the category guides remain unpublished.
